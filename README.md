@@ -2,7 +2,7 @@
 
 ## Description
 
-This Holberton School project is a custom ByteCode interpreter, coded in C.
+This project is a custom ByteCode interpreter, coded in C.
 Compilation:
 ```gcc -Wall -Werror -Wextra -pedantic *.c -o monty```
 Usage:
