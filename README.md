@@ -1,3 +1,5 @@
+<img src="https://badges.pufler.dev/visits/nevillionaire/monty?style=flat-square&color=red&logo=github&a=0">
+
 # 0x18. C - Stacks, Queues - LIFO, FIFO
 
 ## Description
