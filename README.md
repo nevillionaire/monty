@@ -1,4 +1,4 @@
-<img src="https://badges.pufler.dev/visits/nevillionaire/monty?style=flat-square&color=red&logo=github&a=0">
+<img src="https://badges.strrl.dev/visits/nevillionaire/monty?style=flat-square&color=red&logo=github&a=0">
 
 # :snake: Monty Interpreter
 
